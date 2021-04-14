@@ -1,0 +1,7 @@
+---
+title: "Tutorial 6: Collaborating with others"
+author: "Yanhui LI"
+date: "`r Sys.Date()`"
+output: 
+    bookdown::html_document2
+---
